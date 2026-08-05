@@ -1,0 +1,4 @@
+,MSE,R2_oos,Sharpe (annual),Volatility (annual),Cumulative return,Max drawdown,Average monthly ret
+RF,0.0489507,-0.0878,0.294,0.36,3.643,-0.606,0.00883
+Bagging,0.04842343,-0.0761,-0.045,0.2822,-0.693,-0.914,-0.00107
+Boosting,0.04752425,-0.0561,0.92,0.2752,434.624,-0.466,0.0211

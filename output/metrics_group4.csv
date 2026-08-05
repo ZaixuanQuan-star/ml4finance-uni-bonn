@@ -1,0 +1,2 @@
+,Accuracy,AUC,Sharpe (annual),Volatility (annual),Cumulative return,Max drawdown,Average monthly ret
+Logit,0.5365,0.5478,0.093,0.3625,-0.782,-0.974,0.00282

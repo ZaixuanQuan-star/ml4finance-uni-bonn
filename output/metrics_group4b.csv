@@ -1,0 +1,2 @@
+,Accuracy,AUC,Sharpe (annual),Volatility (annual),Cumulative return,Max drawdown,Average monthly ret
+Multinomial Logit,0.2768,0.6079,0.064,0.3764,-0.69,-0.921,0.00201

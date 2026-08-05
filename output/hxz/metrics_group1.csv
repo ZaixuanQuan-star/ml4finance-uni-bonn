@@ -1,0 +1,4 @@
+,MSE,R2_oos,Sharpe (annual),Volatility (annual),Cumulative return,Max drawdown,Average monthly ret
+OLS,0.02097373,-0.014,0.045,0.1853,-0.223,-0.609,0.0007
+Ridge,0.02100782,-0.0156,-0.09,0.1785,-0.594,-0.72,-0.00133
+Lasso,0.02099968,-0.0152,-0.102,0.1804,-0.625,-0.73,-0.00154
